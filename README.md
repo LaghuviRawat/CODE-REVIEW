@@ -18,13 +18,13 @@ An AI-powered full-stack web application that allows users to input code and rec
 ## 🗂️ Project Structure
 
 This is a monorepo containing both the frontend and backend:
-
+```bash
 CODE-REVIEW/
 ├── backend/ # Express server, AI routes & controller
 ├── frontend/ # React + Vite client
 ├── .gitignore
 ├── README.md
-
+```
 
 ---
 
